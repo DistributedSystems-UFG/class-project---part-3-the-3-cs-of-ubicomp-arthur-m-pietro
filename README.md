@@ -1,5 +1,7 @@
 # SSU-2022_2-StarterProject
 
+## Link para o vídeo de apresentação: https://drive.google.com/file/d/1AYxCGdWC0KnEOnZUCVsFQVk-ccUaclcp/view?usp=sharing
+
 This repository contains the three main components used in the class project, namely:
 
 1. IoT Code: Code to run on the Raspberry Pi, which will act as an IoT device with sensors and actuators. Obs.: Without the Raspberry Pi kits, you may run this part on a usual machine (either local or on the cloud), simulating the temperature sensor (e.g., a routine that generates random temperature values) and the actuator (led - a simple on-off variable).
